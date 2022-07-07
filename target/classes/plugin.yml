@@ -1,0 +1,11 @@
+name: RandomTeleport
+version: '1.0-SNAPSHOT'
+main: me.dev.nux.rtp.RTP
+api-version: 1.16
+authors: [ Nuxoria ]
+description: Random Teleport plugin for Brutewars
+commands:
+  rtp:
+    description: Teleports a player to a random location.
+  randomteleport:
+    description: Reloads configuration file.

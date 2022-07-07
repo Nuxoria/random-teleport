@@ -1,0 +1,18 @@
+options:
+  messages:
+    log-activity: true
+    teleport-success: "&aTeleporting you to a random location.."
+    teleport-in-process: "&aTrying to find a suitable location.."
+    teleport-failure: "&c[RTP] Unable to find a suitable location."
+    wrong-command-usage: "&c[RTP] Usage: /rtp"
+    wrong-reload-config-usage: "&c[RTP] Usage: /randomteleport reload"
+    config-reload: "&a[RTP] Config successfully reloaded."
+  world:
+    world-name: "world"
+  range:
+    min:
+      x: 1000
+      z: 1000
+    max:
+      x: 2000
+      z: 2000
